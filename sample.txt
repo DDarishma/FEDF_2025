@@ -1,1 +1,6 @@
-b
+<!DOCTYPE html>
+<html>
+<head>
+    <p> Welcome Homegit</p>
+</head>
+</html>
