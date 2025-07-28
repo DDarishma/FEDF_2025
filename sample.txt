@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <p> Welcome Homegit</p>
+    <p> Welcome Home</p>
+    <p>bye bye</p>
 </head>
 </html>
